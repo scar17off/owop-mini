@@ -1,0 +1,10 @@
+{
+    "help": 0,
+    "nick": 0,
+    "adminlogin": 0,
+    "modlogin": 0,
+    "tell": 0,
+    "kick": 3,
+    "setrank": 3,
+    "tp": 2
+}

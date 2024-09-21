@@ -1,0 +1,52 @@
+{
+	"maxConnectionsPerIp": 16,
+	"maxConnectionsPerAdminIp": -1,
+	"maxPlayersInWorld": 0,
+	"maxConnections": 0,
+	"maxChatLength": 128,
+	"port": 443,
+	"maxNickLength": 16,
+	"messages": {
+		"unbanMessage": "",
+		"closeMsg": "Server is restarting...",
+		"defaultBanReason": "No reason"
+	},
+	"bucket": {
+		"pixel": {
+			"none": [
+				0,
+				1
+			],
+			"user": [
+				50,
+				2
+			],
+			"mod": [
+				128,
+				1
+			],
+			"admin": [
+				256,
+				0
+			]
+		},
+		"chat": {
+			"none": [
+				4,
+				6
+			],
+			"user": [
+				4,
+				6
+			],
+			"mod": [
+				32,
+				0
+			],
+			"admin": [
+				256,
+				0
+			]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+worlds/
+package-lock.json
+node_modules
+node_modules_linux
+bans.json
+.replit
+.breakpoints
+replit_zip_error_log.txt
+replit.nix
+.upm
+.cache
+client-dist/
+.env
+routing/client/*.js
+routing/client/*.js.map
